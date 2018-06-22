@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<div>
+	<div ng-app="contactsApp">
+		<div id="home" ng-include="'@Url.Content("contactsPage.html")'"></div>
+	</div>
+</div>
+
+<script src="js/angular-1.7.2/angular.js"></script>
+<script src="js/app.js"></script>
+<script src="js/Controllers/contactsController.js"></script>

@@ -1,0 +1,9 @@
+C:\Users\maxma\Source\Repos\BusinessContactsApplication\BusinessContactsApplication.Domain\bin\Debug\netcoreapp2.1\BusinessContactsApplication.Domain.deps.json
+C:\Users\maxma\Source\Repos\BusinessContactsApplication\BusinessContactsApplication.Domain\bin\Debug\netcoreapp2.1\BusinessContactsApplication.Domain.dll
+C:\Users\maxma\Source\Repos\BusinessContactsApplication\BusinessContactsApplication.Domain\obj\Debug\netcoreapp2.1\BusinessContactsApplication.Domain.csprojAssemblyReference.cache
+C:\Users\maxma\Source\Repos\BusinessContactsApplication\BusinessContactsApplication.Domain\obj\Debug\netcoreapp2.1\BusinessContactsApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Source\Repos\BusinessContactsApplication\BusinessContactsApplication.Domain\obj\Debug\netcoreapp2.1\BusinessContactsApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\maxma\Source\Repos\BusinessContactsApplication\BusinessContactsApplication.Domain\obj\Debug\netcoreapp2.1\BusinessContactsApplication.Domain.AssemblyInfo.cs
+C:\Users\maxma\Source\Repos\BusinessContactsApplication\BusinessContactsApplication.Domain\bin\Debug\netcoreapp2.1\BusinessContactsApplication.Domain.pdb
+C:\Users\maxma\Source\Repos\BusinessContactsApplication\BusinessContactsApplication.Domain\obj\Debug\netcoreapp2.1\BusinessContactsApplication.Domain.dll
+C:\Users\maxma\Source\Repos\BusinessContactsApplication\BusinessContactsApplication.Domain\obj\Debug\netcoreapp2.1\BusinessContactsApplication.Domain.pdb

@@ -1,0 +1,12 @@
+C:\Users\maxma\Source\Repos\BusinessContactsApplication\BusinessContactsApplication.Data\bin\Debug\netcoreapp2.1\BusinessContactsApplication.Data.deps.json
+C:\Users\maxma\Source\Repos\BusinessContactsApplication\BusinessContactsApplication.Data\bin\Debug\netcoreapp2.1\BusinessContactsApplication.Data.dll
+C:\Users\maxma\Source\Repos\BusinessContactsApplication\BusinessContactsApplication.Data\obj\Debug\netcoreapp2.1\BusinessContactsApplication.Data.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Source\Repos\BusinessContactsApplication\BusinessContactsApplication.Data\obj\Debug\netcoreapp2.1\BusinessContactsApplication.Data.AssemblyInfoInputs.cache
+C:\Users\maxma\Source\Repos\BusinessContactsApplication\BusinessContactsApplication.Data\obj\Debug\netcoreapp2.1\BusinessContactsApplication.Data.AssemblyInfo.cs
+C:\Users\maxma\Source\Repos\BusinessContactsApplication\BusinessContactsApplication.Data\bin\Debug\netcoreapp2.1\BusinessContactsApplication.Data.pdb
+C:\Users\maxma\Source\Repos\BusinessContactsApplication\BusinessContactsApplication.Data\bin\Debug\netcoreapp2.1\BusinessContactsApplication.Domain.dll
+C:\Users\maxma\Source\Repos\BusinessContactsApplication\BusinessContactsApplication.Data\bin\Debug\netcoreapp2.1\BusinessContactsApplication.Domain.pdb
+C:\Users\maxma\Source\Repos\BusinessContactsApplication\BusinessContactsApplication.Data\obj\Debug\netcoreapp2.1\BusinessContactsApplication.Data.csprojAssemblyReference.cache
+C:\Users\maxma\Source\Repos\BusinessContactsApplication\BusinessContactsApplication.Data\obj\Debug\netcoreapp2.1\BusinessContactsApplication.Data.csproj.CopyComplete
+C:\Users\maxma\Source\Repos\BusinessContactsApplication\BusinessContactsApplication.Data\obj\Debug\netcoreapp2.1\BusinessContactsApplication.Data.dll
+C:\Users\maxma\Source\Repos\BusinessContactsApplication\BusinessContactsApplication.Data\obj\Debug\netcoreapp2.1\BusinessContactsApplication.Data.pdb

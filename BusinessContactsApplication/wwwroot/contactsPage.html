@@ -1,0 +1,26 @@
+﻿
+<!-- I didn't get as far on this as I would have liked. I was running into permissions issues with the request and wasn't able to make the http
+calls from the front end, even though I was able to hit it from Postman. I did put javascript functions for each of the http verbs that should work
+once I am able to troubleshoot the permissions issues. -MM-->
+<div class="container" ng-controller="contactsController">
+	<table>
+		<tr>Customers</tr>
+		<tr>
+			<th>First Name</th>
+			<th>Last Name</th>
+			<th>Street Address</th>
+			<th>City</th>
+			<th>State</th>
+			<th>Country</th>
+		</tr>
+		<tr ng-repeat="customer in customers">
+			<td><div contenteditable>{{customer.firstName}}</div></td>
+			<td><div contenteditable>{{customer.lastName}}</div></td>
+			<td><div contenteditable>{{customer.street}}</div></td>
+			<td><div contenteditable>{{customer.city}}</div></td>
+			<td><div contenteditable>{{customer.state}}</div></td>
+			<td><div contenteditable>{{customer.country}}</div></td>
+			<td><button ng-click="update(customer)"></button></td>
+		</tr>
+	</table>
+</div>
